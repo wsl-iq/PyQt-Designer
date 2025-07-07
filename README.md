@@ -2,6 +2,30 @@
 
 ---
 
+### How Installing?
+
+### `Windows`
+```
+$ pip install winshell pywin32 prettytable keyboard
+```
+
+`OR`
+
+- install for File By `VBScript`
+  
+```
+$ SetupWin.vbs
+```
+
+---
+
+### `Linux`
+```
+$ pip install winshell pywin32 prettytable keyboard --break-system-packages
+```
+
+---
+
 ![PyQt Designer Tools](image/2.png)
 
 ---
