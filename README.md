@@ -19,7 +19,7 @@ pyqt6-tools designer
 ---
 
 ### The Qt Designer will look like this:
-![Qt Designer](1.png)
+![Qt Designer](image/1.png)
 
 ---
 
@@ -28,18 +28,18 @@ pyqt6-tools designer
 - We’ll create a simple **login** form using the `Qt designer` and load it into our Python program.
 - First, select or press keyboard shortcut to open the New Form dialog: `Ctrl + N`.
 
-![Login Form](3.png)
+![Login Form](image/3.png)
 
 ---
 
 - Second, select the **Dialog** from the **Templates** and click the `Create` button.
-![Dialog Template](4.png)
+![Dialog Template](image/4.png)
 
 ---
 
 - It’ll create a as follows:`QWidget`
 
-![Dialog](5.png)
+![Dialog](image/5.png)
 
 ---
 
@@ -49,9 +49,9 @@ pyqt6-tools designer
 
 - In the Property Editor, you can set a name for the widget e.g., `login_form`
 
-![Widget Properties](6.png)
+![Widget Properties](image/6.png)
 
-![Widget Properties](7.png)
+![Widget Properties](image/7.png)
 
 ---
 
@@ -61,7 +61,7 @@ pyqt6-tools designer
   - `QLabel` for the username and password labels.
   - `QLineEdit` for the username and password input fields.
   - `QPushButton` for the login button.
-![Adding Widgets](8.png)
+![Adding Widgets](image/8.png)
 
 ---
 
