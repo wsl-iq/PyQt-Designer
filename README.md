@@ -2,7 +2,7 @@
 
 ---
 
-![PyQt Designer Tools](2.png)
+![PyQt Designer Tools](image\2.png)
 
 ---
 
